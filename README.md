@@ -3,8 +3,10 @@
 This is a test application built with Python Django and React, enabling user registration and address updates. Users can register by providing their details, and if already registered, they can update their address information.
 
 Technology Used for the application:
-Frontend: React JS
-Backend: Python Django with django rest framework
+Frontend: React JS,
+
+Backend: Python Django with django rest framework,
+
 Database: DB sqlite 3 -django default database.
 
 
