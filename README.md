@@ -15,6 +15,8 @@ API and Frontend Tests: https://docs.google.com/document/d/1QMI0qChPBMcCIljoiQp-
 
 Application User Manual: https://docs.google.com/document/d/10-_eSJNfy9PjVDWNhWM1F1_3_fy1-vUTe-pVnCJYgBw/edit?usp=sharing
 
+Video Description Link: https://drive.google.com/file/d/11t1ArjIZ4dWCnP5sP6VKMIbAhC47GFwv/view?usp=sharing
+
 
 
 
